@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Heathen205
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on apprenticeship in Cyber Security
+- 💞️ I’m looking to collaborate on apprenticeship in Coding
 - 📫 How to reach me kinga6368@gmail.com
 
 <!---
